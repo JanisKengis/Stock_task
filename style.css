@@ -1,0 +1,11 @@
+
+.box {
+    display: inline-flex;
+    background-color: cadetblue;
+    width: 250px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 5px;
+    justify-content: space-between;
+}
+
